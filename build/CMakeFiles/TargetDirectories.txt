@@ -1,4 +1,0 @@
-C:/Users/venaj/OneDrive/Documents/TermDrawC/build/CMakeFiles/testDraw.dir
-C:/Users/venaj/OneDrive/Documents/TermDrawC/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/venaj/OneDrive/Documents/TermDrawC/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/venaj/OneDrive/Documents/TermDrawC/build/TermDrawC/CMakeFiles/TermDrawC.dir
