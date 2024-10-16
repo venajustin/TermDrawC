@@ -1,5 +1,5 @@
 #include "stdio.h"
-#include "termdrawc.h"
+#include "../TermDrawC/termdrawc.h"
 
 int main(int argc, char** argv) {
 
